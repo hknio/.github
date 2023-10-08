@@ -29,6 +29,7 @@ We protect Web3 projects and their communities with the suite of cybersecurity s
 
 # Contact Us
 
+[![Mail](public/images/social/mail.svg)](https://discord.com/invite/R2rP5sr5kX)
 [![Discord](public/images/social/discord.svg)](https://discord.com/invite/R2rP5sr5kX)
 [![Telegram](public/images/social/telegram.svg)](https://t.me/hackenai)
 [![Linkedin](public/images/social/linkedin.svg)](https://www.linkedin.com/company/hacken/)
