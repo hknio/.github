@@ -9,8 +9,10 @@ We protect Web3 projects and their communities with the suite of cybersecurity s
 
 # :zap: Technologies
 
-<p>
-<img src="https://skillicons.dev/icons?i=rust,solidity,java,python,go,cs,cpp" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rust,solidity,java,python,go,cs,cpp" />
+  </a>
 </p>
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
