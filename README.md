@@ -23,4 +23,4 @@ We protect Web3 projects and their communities with the suite of cybersecurity s
 
 # Careers 
 
-Let's team up and make the Web3 world safer together! Check out our opportunities on [Hacken Careers](https://hacken.peopleforce.io/careers)
+Let's team up and make the Web3 world safer together! Check out our opportunities on <a href="https://hacken.peopleforce.io/careers" target="_blank">Hacken Careers</a>
