@@ -12,7 +12,7 @@ We protect Web3 projects and their communities with the suite of cybersecurity s
 <p>
     <img src="https://skillicons.dev/icons?i=rust,solidity,java,python,go,cs,cpp" />
 </p>
-
+<!---
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=rust,solidity,java,python,go,cs,cpp" />
@@ -26,6 +26,7 @@ We protect Web3 projects and their communities with the suite of cybersecurity s
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+-->
 
 # Contact Us
 
@@ -39,5 +40,6 @@ We protect Web3 projects and their communities with the suite of cybersecurity s
 # Careers
 
 Let's team up and make the Web3 world safer together! Check out our opportunities on [Hacken Careers](https://hacken.peopleforce.io/careers)
-
+<!---
 <img src="https://myreadme.vercel.app/api/embed/hknio?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+-->
