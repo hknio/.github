@@ -19,12 +19,16 @@ We protect Web3 projects and their communities with the suite of cybersecurity s
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=yellow)
-
+![Typescript](https://img.shields.io/badge/-Typescript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Deno](https://img.shields.io/badge/-Deno-000000?style=flat&logo=deno)
+![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 
 # Contact Us
 
 [![Web](https://img.shields.io/badge/-Web-2E3A59?style=flat&logo=firefox&logoColor=white)](https://hacken.io/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_ADDRESS)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/invite/R2rP5sr5kX)
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/hackenai)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/hacken/)
