@@ -9,32 +9,29 @@ We protect Web3 projects and their communities with the suite of cybersecurity s
 
 # :zap: Technologies
 
-<p>
-    <img src="https://skillicons.dev/icons?i=rust,solidity,java,python,go,cs,cpp" />
-</p>
-<!---
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,solidity,java,python,go,cs,cpp" />
-  </a>
-</p>
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
--->
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust)
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity)
+![TON Solidity](https://img.shields.io/badge/-TON%20Solidity-0088cc?style=flat)
+![Scrypto](https://img.shields.io/badge/-Scrypto-ff69b4?style=flat)
+![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
+![MOVE](https://img.shields.io/badge/-MOVE-0052CC?style=flat)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=yellow)
+
 
 # Contact Us
 
-[![Mail](public/images/social/mail.svg)](https://discord.com/invite/R2rP5sr5kX)
-[![Discord](public/images/social/discord.svg)](https://discord.com/invite/R2rP5sr5kX)
-[![Telegram](public/images/social/telegram.svg)](https://t.me/hackenai)
-[![Linkedin](public/images/social/linkedin.svg)](https://www.linkedin.com/company/hacken/)
-[![Medium](public/images/social/medium.svg)](URL_DEL_ENLACE_DE_MEDIUM)
-[![X](public/images/social/x.svg)](https://twitter.com/hackenclub)
+[![Web](https://img.shields.io/badge/-Web-2E3A59?style=flat&logo=firefox&logoColor=white)](https://hacken.io/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_ADDRESS)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/invite/R2rP5sr5kX)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/hackenai)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/hacken/)
+[![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium&logoColor=white)](URL_DEL_ENLACE_DE_MEDIUM)
+[![X](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=x&logoColor=white)](https://twitter.com/hackenclub)
+
+
 
 # Careers
 
