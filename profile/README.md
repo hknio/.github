@@ -1,11 +1,14 @@
 [![Title Header](public/images/header.svg)](https://hacken.io/)
 
-Hacken is a blockchain security auditor with a vision of transforming Web3 into a more ethical place.
-We protect Web3 projects and their communities with the suite of cybersecurity services such as Smart Contract Audit, L1 Blockchain Protocol Audit, dApp Audit, Pentest, Bug Bounty Program running on HackenProof, #1 bug bounty platform.
+Hacken, a trusted blockchain security auditor, is dedicated to making Web3 safer.
+We’re a vertically-integrated company, delivering high-quality solutions at every level of blockchain security covering Smart Contract Audits, Blockchain Protocol Audits, dApp Audits, Penetration Testing, CCSS Audits, Tokenomics Audits and design.
+By contributing to EEA EthTrust Security Levels Specification and promoting transparent Web3, we continue raising the bar for blockchain security.
 
-- 100+ protected clients
-- 60+ top-class engineers
-- 1200+ audits in 5 years
+- 6+ years of experise;
+- 100+ team members;
+- 1000+ clients;
+- 1500+ audits
+- 180+ partners;
 
 # :zap: Technologies
 
