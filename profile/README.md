@@ -1,4 +1,4 @@
-[![Title Header](public/images/header.svg)](https://hacken.io/)
+[![Title Header](/public/images/header.svg)](https://hacken.io/)
 
 Hacken, a trusted blockchain security auditor, is dedicated to making Web3 safer.
 We’re a vertically-integrated company, delivering high-quality solutions at every level of blockchain security covering Smart Contract Audits, Blockchain Protocol Audits, dApp Audits, Penetration Testing, CCSS Audits, Tokenomics Audits and design.
