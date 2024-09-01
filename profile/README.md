@@ -4,10 +4,10 @@ Hacken, a trusted blockchain security auditor, is dedicated to making Web3 safer
 We’re a vertically-integrated company, delivering high-quality solutions at every level of blockchain security covering Smart Contract Audits, Blockchain Protocol Audits, dApp Audits, Penetration Testing, CCSS Audits, Tokenomics Audits and design.
 By contributing to EEA EthTrust Security Levels Specification and promoting transparent Web3, we continue raising the bar for blockchain security.
 
-- 6+ years of experise;
+- 7+ years of experise;
 - 100+ team members;
 - 1000+ clients;
-- 1500+ audits
+- 2000+ audits
 - 180+ partners;
 
 # :zap: Technologies
