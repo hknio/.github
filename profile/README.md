@@ -35,7 +35,6 @@ By contributing to EEA EthTrust Security Levels Specification and promoting tran
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/invite/R2rP5sr5kX)
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/hackenai)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/hacken/)
-[![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium&logoColor=white)](URL_DEL_ENLACE_DE_MEDIUM)
 [![X](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=x&logoColor=white)](https://twitter.com/hackenclub)
 
 
