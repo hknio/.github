@@ -43,6 +43,9 @@ By contributing to EEA EthTrust Security Levels Specification and promoting tran
 
 Let's team up and make the Web3 world safer together! Check out our opportunities on [Hacken Careers](https://hacken.peopleforce.io/careers)
 
+# Security
+Find our security policy [here](SECURITY.md)
+
 
 <!---
 <img src="https://myreadme.vercel.app/api/embed/hknio?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
